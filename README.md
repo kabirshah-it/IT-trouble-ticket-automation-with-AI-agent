@@ -1,0 +1,3 @@
+This AI agent solves IT staffs problems using a knowlage based Q&A document as in every organization the staff faces IT related problems and the IT staff is always busy solving repetative problems so this AI agent helps them to 
+provide solutions to staff using a pre built knowlage if the question is not present in document than transfers back to an IT professional for solution [IT Trouble Ticket.blueprint.json](https://github.com/user-attachments/files/28662053/IT.Trouble.Ticket.blueprint.json)
+<img width="1832" height="841" alt="IT trouble ticket" src="https://github.com/user-attachments/assets/2684973b-8566-4c7b-9863-4f83deacdf08" />
